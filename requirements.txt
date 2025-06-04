@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-openai
+langgraph
+pinecone-client
+langchain-pinecone
+python-dotenv
+typing-extensions
