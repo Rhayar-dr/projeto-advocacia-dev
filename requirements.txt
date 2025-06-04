@@ -1,8 +1,10 @@
-streamlit
-langchain
-langchain-openai
-langgraph
-pinecone-client
-langchain-pinecone
-python-dotenv
-typing-extensions
+streamlit==1.35.0
+langchain==0.2.5
+langchain-core==0.2.10
+langchain-openai==0.1.8
+langgraph==0.1.1
+pinecone-client==4.1.1   # Versão mais recente do pinecone-client que lida com a estrutura de 'data.index'
+langchain-pinecone==0.3.0 # Compatível com pinecone-client v4.x
+python-dotenv==1.0.1
+typing-extensions==4.12.2
+openai==1.30.1
