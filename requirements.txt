@@ -3,8 +3,8 @@ langchain==0.2.5
 langchain-core==0.2.10
 langchain-openai==0.1.8
 langgraph==0.1.1
-pinecone-client==4.1.1   # Versão mais recente do pinecone-client que lida com a estrutura de 'data.index'
-langchain-pinecone==0.3.0 # Compatível com pinecone-client v4.x
+pinecone-client==4.1.1
+langchain-pinecone==0.3.0
 python-dotenv==1.0.1
 typing-extensions==4.12.2
 openai==1.30.1
